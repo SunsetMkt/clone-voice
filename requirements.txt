@@ -169,7 +169,7 @@ threadpoolctl==3.2.0
 tokenizers==0.15.0
 tomlkit==0.12.0
 toolz==0.12.1
-tqdm==4.66.1
+tqdm==4.66.3
 trainer==0.0.36
 transformers==4.36.2
 TTS @ git+https://github.com/coqui-ai/TTS.git@1936330adaad84812b0fafd2aa17cb7bba6edea9
